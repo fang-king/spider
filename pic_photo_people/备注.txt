@@ -1,0 +1,5 @@
+使用scrapy自带的ImagePilelines类下载图片并保存
+方法一：自定义pipeline继承自ImagePilelines类
+方法二：直接使用ImagePilelines类
+
+start_url：http://699pic.com/people.html
